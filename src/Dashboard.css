@@ -1,0 +1,31 @@
+/* Dashboard.css */
+
+/* Styling for the container div */
+.dashboard-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  /* Styling for the description paragraph */
+  .description {
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  
+  /* Styling for the "List Users" button */
+  .button {
+    font-size: 18px;
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+  }
+  
+  /* Hover effect for the button */
+  .button:hover {
+    background-color: #0056b3;
+    cursor: pointer;
+  }
+  
